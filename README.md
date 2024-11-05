@@ -2,6 +2,12 @@
 
 Welcome to the **Dragons Main** project! This project is designed to manage various elements involving dragons, including bosses, achievements, and other related configurations.
 
+## 🕹️ Quick Start
+
+To start the game, simply execute the `Run.bat` file:
+```bash
+Run.bat
+```
 ## 🚀 Features
 
 - 🏆 **Achievements System**: Handle dragon-related achievements with `Achievement.py`.
