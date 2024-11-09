@@ -8,6 +8,7 @@ To start the game, simply execute the `Run.bat` file:
 ```bash
 Run.bat
 ```
+![](https://i.imgur.com/d7QvWFy.gif)
 ## 🚀 Features
 
 - 🏆 **Achievements System**: Handle dragon-related achievements with `Achievement.py`.
