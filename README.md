@@ -8,7 +8,7 @@ To start the game, simply execute the `Run.bat` file:
 ```bash
 Run.bat
 ```
-## Commands and Live Demo
+## 🖥️ Commands and Live Demo
 ![](https://i.imgur.com/d7QvWFy.gif)
 
 ## 🚀 Features
